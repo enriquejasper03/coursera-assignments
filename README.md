@@ -1,2 +1,2 @@
-# coursera-assignments
+# Coursera-Assignments
 Coursera Assignments Repository.
