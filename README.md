@@ -1,2 +1,2 @@
 # Coursera-Assignments
-Coursera Assignments Repository.
+HTML, CSS, and Javascript for Web Developers - Coursera Assignments Repository.
